@@ -4,7 +4,9 @@
 
 **Today's Progress**: Worked on hackerrank problems to refresh my Java fundamentals.
 
-<!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+**Concept**: java.lang.Integer.toString(int a) is a static in-built method in Java, that is used to convert any int to String. 
+
+*public static String toString(int a)*
 
 **Link to work:** [Converting int to String] https://www.hackerrank.com/challenges/java-int-to-string/submissions/code/232413775
 
