@@ -4,7 +4,7 @@
 
 **Today's Progress**: Worked on hackerrank problems to refresh my Java fundamentals.
 
-<**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.>
+<!-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.->
 
 **Link to work:** [Converting int to String] https://www.hackerrank.com/challenges/java-int-to-string/submissions/code/232413775
 
