@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: September 7, 2021 
+### Day 0: 
 
-**Today's Progress**: Worked on hackerrank problems to refresh my Java fundamentals.
+**Today's Progress**: 
 
-**Concept**: java.lang.Integer.toString(int a) is a static in-built method in Java, that is used to convert any int to String. 
+**Concept**: 
 
 *public static String toString(int a)*
 
-**Link to work:** [Converting int to String] https://www.hackerrank.com/challenges/java-int-to-string/submissions/code/232413775
+**Link to work:** 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
